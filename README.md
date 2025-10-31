@@ -1,2 +1,7 @@
 # CPSC355
-CPSC355 Slides and Codes
+
+This repository contains all the materials I created for teaching CPSC 355 at the University of Calgary.
+
+It updates weekly.
+
+Latest Update: Fall 2025
